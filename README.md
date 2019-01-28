@@ -3,7 +3,9 @@
 ## Overview:
 Friend Finder is a compatibility-based application for individuals seeking new friends. This application utilizes the npm packages [Express](https://www.npmjs.com/package/express) and [Path](https://www.npmjs.com/package/express). This full-stack site takes in the results from the user's survey, and compares their answers to answers given by other users. The compatibility survey has 10 questions, and answers are given on a scale of 1-5 based on how much the user agrees or disagrees. Once a best friend match is found, the application displays the name and picture of the match to the current user.
 
-## Demo Video Link:
+## Demo Video Links:
+- Terminal Demo Video: https://drive.google.com/file/d/1n1Q_k7aHwu4pM1B1HczKu6uJRJ3sAkyb/view
+- Website Demo Video: https://drive.google.com/file/d/1bGMapc_hFmTzioml-jEyYXId4m-LhCSD/view
 
 ## Technologies Used:
 - Node.js
